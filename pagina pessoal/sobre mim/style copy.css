@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(18, 104, 18);
+    text-align: left; 
+    word-spacing: 10px;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+    
+}
+body{
+    background-color: antiquewhite;
+}
+a{
+    background-color: color(from color srgb r g b);
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    vertical-align: middle;
+}
+table, tr, th, td{
+    border: 1px solid;
+}
